@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Deep Learning and Double IPAs</title>
-    <link>http://bbelgodere.github.io/post/index.xml</link>
+    <link>https://bbelgodere.github.io/post/index.xml</link>
     <description>Recent content in Posts on Deep Learning and Double IPAs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016. All rights reserved.</copyright>
     <lastBuildDate>Tue, 28 Mar 2017 11:31:04 -0400</lastBuildDate>
-    <atom:link href="http://bbelgodere.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bbelgodere.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>My Day Job(s)</title>
-      <link>http://bbelgodere.github.io/post/myDayJob/</link>
+      <link>https://bbelgodere.github.io/post/myDayJob/</link>
       <pubDate>Tue, 28 Mar 2017 11:31:04 -0400</pubDate>
       
-      <guid>http://bbelgodere.github.io/post/myDayJob/</guid>
+      <guid>https://bbelgodere.github.io/post/myDayJob/</guid>
       <description>
 
 &lt;h1 id=&#34;the-hats-i-wear-on-a-regular-basis&#34;&gt;The hats I wear on a regular basis&lt;/h1&gt;
@@ -26,10 +26,10 @@
     
     <item>
       <title>Hello World</title>
-      <link>http://bbelgodere.github.io/post/helloWorld/</link>
+      <link>https://bbelgodere.github.io/post/helloWorld/</link>
       <pubDate>Tue, 28 Mar 2017 11:18:04 -0400</pubDate>
       
-      <guid>http://bbelgodere.github.io/post/helloWorld/</guid>
+      <guid>https://bbelgodere.github.io/post/helloWorld/</guid>
       <description>
 
 &lt;h1 id=&#34;helloworld&#34;&gt;helloWorld&lt;/h1&gt;
