@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://bbelgodere.github.io/post/myDayJob/</loc>
+    <lastmod>2017-03-28T11:31:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bbelgodere.github.io/post/helloWorld/</loc>
+    <lastmod>2017-03-28T11:18:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bbelgodere.github.io/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bbelgodere.github.io/contact/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://bbelgodere.github.io/</loc>
+    <lastmod>2017-03-28T11:31:04-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://bbelgodere.github.io/post/</loc>
+    <lastmod>2017-03-28T11:31:04-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
