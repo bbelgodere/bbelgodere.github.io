@@ -19,6 +19,8 @@
       <description>
 
 &lt;h1 id=&#34;the-hats-i-wear-on-a-regular-basis&#34;&gt;The hats I wear on a regular basis&lt;/h1&gt;
+
+&lt;p&gt;Hi, My name is Brian and I&amp;rsquo;m a software engineer at IBM Research. I spend most of my time working on the Cognitive Computing Cluster. An High Performance Computing environment outfitted with Nvidia GPUS optimized for Deep Learning.&lt;/p&gt;
 </description>
     </item>
     
@@ -40,8 +42,9 @@
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://bbelgodere.github.io/about/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a software engineer at IBM Research.
-Thanks for reading!&lt;/p&gt;
+      <description>&lt;p&gt;Hi, My name is Brian and I&amp;rsquo;m a software engineer at IBM Research. I spend most of my time working on the Cognitive Computing Cluster. An High Performance Computing environment outfitted with Nvidia GPUS optimized for Deep Learning.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
 </description>
     </item>
     
@@ -51,7 +54,8 @@ Thanks for reading!&lt;/p&gt;
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://bbelgodere.github.io/contact/</guid>
-      <description></description>
+      <description>&lt;p&gt;I&amp;rsquo;m available via email at bbelgodere@gmail.com or bmbelgod@us.ibm.com.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
