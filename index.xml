@@ -53,28 +53,22 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://bbelgodere.github.io/projects/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://bbelgodere.github.io/projects/</guid>
-      <description>&lt;p&gt;Hi, My name is Brian and I&amp;rsquo;m a software engineer at IBM Research. I spend most of my time working on the Cognitive Computing Cluster. An High Performance Computing environment outfitted with Nvidia GPUS optimized for Deep Learning.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Note:&lt;/strong&gt; The postings on this site are my own and don&amp;rsquo;t necessarily represent IBM&amp;rsquo;s positions, strategies or opinions.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thanks for reading!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://bbelgodere.github.io/contact/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://bbelgodere.github.io/contact/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m available via email at &lt;a href=&#34;mailto:bbelgodere@gmail.com&#34;&gt;bbelgodere@gmail.com&lt;/a&gt; or &lt;a href=&#34;mailto:bmbelgod@us.ibm.com&#34;&gt;bmbelgod@us.ibm.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://bbelgodere.github.io/projects/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://bbelgodere.github.io/projects/</guid>
+      <description>&lt;p&gt;Holding Page for Projects awaiting clearance to opensource.&lt;/p&gt;
 </description>
     </item>
     
